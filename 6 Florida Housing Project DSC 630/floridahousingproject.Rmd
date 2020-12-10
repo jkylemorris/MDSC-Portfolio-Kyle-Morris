@@ -1,0 +1,166 @@
+---
+title: "Florida Housing Project"
+author: "Kyle Morris"
+date: "April 11, 2020"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(caret)
+library(ggplot2)
+
+housing = read.csv("houseclean.csv")
+housing <- subset(housing, select = -c(RT, X, SERIALNO, RNTP))
+```
+Let's take a look at some data.
+
+```{r}
+#rentplot = boxplot(housing$RNTP,
+    #    main = "Rent",
+      #  xlab = "Rent Price",
+      #  ylab = "In $")
+#rentplot
+
+```
+
+```{r}
+#histogram(housing$RNTP,
+       #   xlab = "Rent",
+       #   main = "Histogram of Monthly Rent")
+
+histogram(housing$GRNTP,
+          xlab = "Gross Rent",
+          main = "Histogram of Monthly Rent")
+
+histogram(housing$VALP,
+          xlab = "Property Value",
+          main = "Histogram of Property Value")
+
+#summary(dodgers$attend)
+```
+
+
+```{r}
+rentsubset = subset(housing, GRNTP > 0 & GRNTP < 3000)
+housesubset = subset(housing, VALP > 0)
+
+
+
+histogram(rentsubset$GRNTP,
+          xlab = "Gross Rent",
+          main = "Histogram of Monthly Rent")
+
+housesubset <- transform(housesubset, logVALP = log10(VALP))
+housesubset <- subset(housesubset, select = -c(VALP))
+
+histogram(housesubset$logVALP,
+          xlab = "Property Value",
+          main = "Histogram of Property Value")
+```
+
+```{r}
+set.seed(94) # Games won by the Giants that year. This is our random seed.
+#housing <- subset(housing, select = -c(RNTP))
+rentTrain <- createDataPartition(
+  y = rentsubset$GRNTP,
+  ## the outcome data are needed
+  p = .75,
+  ## The percentage of data in the
+  ## training set
+  list = FALSE
+)
+
+propTrain <- createDataPartition(
+  y = housesubset$logVALP,
+  ## the outcome data are needed
+  p = .75,
+  ## The percentage of data in the
+  ## training set
+  list = FALSE
+)
+## The format of the results
+
+rentTrainSet <- rentsubset[ rentTrain,]
+rentTestSet  <- rentsubset[-rentTrain,]
+
+propTrainSet <- housesubset[ propTrain,]
+propTestSet  <- housesubset[-propTrain,]
+```
+
+```{r}
+(l <- sapply(rentTrainSet, function(x) is.factor(x)))
+
+m <- rentTrainSet[, l]
+
+m
+```
+
+```{r}
+fitControl <- trainControl(## 10-fold CV
+                           method = "repeatedcv",
+                           number = 10,
+                           ## repeated ten times
+                           repeats = 10,
+                           search = "random")
+
+# We're using CV ten different times to train our model a little better.
+
+rentModel <- train(GRNTP ~ ., data = rentTrainSet, 
+                 method = "lm", 
+                 trControl = fitControl,
+                 preProcess = c('scale', 'center'))
+
+valueModel <- train(logVALP ~ ., data = propTrainSet, 
+                 method = "lm", 
+                 trControl = fitControl,
+                 preProcess = c('scale', 'center'))
+```
+
+```{r}
+rentModel 
+valueModel
+
+ggplot(varImp(rentModel), top = 20)
+ggplot(varImp(valueModel), top = 20)
+
+```
+
+```{r}
+newrentModel <- train(GRNTP ~ BDSP + ELEP + YBL + WATP + BLD + ACR + GASP, data = rentTrainSet, 
+                 method = "lm", 
+                 trControl = fitControl,
+                 preProcess = c('scale', 'center'))
+
+newvalueModel <- train(logVALP ~ SVAL + BLD + MHP + BDSP + YBL + CONP + ELEP + WATP + GASP, data = propTrainSet, 
+                 method = "lm", 
+                 trControl = fitControl,
+                 preProcess = c('scale', 'center'))
+                 
+newrentModel 
+newvalueModel
+
+ggplot(varImp(newrentModel))
+ggplot(varImp(newvalueModel))
+
+```
+
+```{r}
+rentPredictions <- predict(newrentModel, rentTestSet)
+propPredictions <- predict(newvalueModel, propTestSet)
+
+rentdifference <- Map('-', rentTestSet$GRNTP,rentPredictions)
+propdifference <- Map('-', propTestSet$logVALP,propPredictions)
+
+# Now let's make our prediction. Then, I subtracted the actual value minus the prediction so we can see how far off our model was. We then plotted said differences.
+
+#for (item in 1:length(difference)){
+  
+ # print(difference[item])
+#}
+vecrentdifference <- unlist(rentdifference)
+plot(vecrentdifference)
+vecpropdifference <- unlist(propdifference)
+plot(vecpropdifference)
+```
+
