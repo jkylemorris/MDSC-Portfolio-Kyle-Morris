@@ -1,2 +1,2 @@
 # MDSC Portfolio Kyle Morris
- A portfolio for my Masters captstone.
+ A portfolio for my Masters capstone.
