@@ -10,7 +10,7 @@ ___
 6. [Florida Housing Project](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/Florida%20Housing%20Project)
 7. [Safety in the Airline Industry](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/Safety%20in%20the%20Airline%20Industry)
 8. [Image Classifier](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/Image%20Classifier)
-9. [LSTM Text Generator](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/LSTM%20Text%20Generator)
+9. [LSTM Text Generator](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/LSTM%20Text%20Generator%20-%20Hobbits)
 10. [VAE Encorder](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/VAE%20Encoder)
 
 ## Projects
