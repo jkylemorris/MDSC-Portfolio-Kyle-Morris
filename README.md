@@ -11,7 +11,7 @@ I've included ten projects I've worked on, and a few more I'm finishing up. You 
 ## Contact
 
 I'm happy to answer any questions! [View Contact Details](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/contact)
-```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
