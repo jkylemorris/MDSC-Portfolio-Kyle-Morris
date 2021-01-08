@@ -12,3 +12,9 @@ Quisque lacinia metus ligula, ut feugiat leo rutrum in. Curabitur eget hendrerit
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[Back to Projects](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/projects)
+
+[Back to Home](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/)
+
+[GitHub Repo](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/)
