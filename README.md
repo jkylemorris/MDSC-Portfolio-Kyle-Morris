@@ -22,4 +22,4 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Link to Repo
-https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/
+[https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/)
