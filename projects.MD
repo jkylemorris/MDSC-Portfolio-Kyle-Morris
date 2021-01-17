@@ -14,7 +14,7 @@ ___
 10. [VAE Encorder](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/VAE%20Encoder)
 
 ## Projects
-[Twitter Election Analysis](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/Project%201)
+[Twitter Election Analysis](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/project1)
 
 [Back to Home](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/)
 
