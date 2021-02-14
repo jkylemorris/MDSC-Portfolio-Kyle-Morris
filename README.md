@@ -2,15 +2,15 @@
 ## About
 
 This portfolio showcases some of the Data Science projects I've worked on.
-See more: [About](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/about)
+See more: [About](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/about.html)
 
 ## Work
 
-I've included ten projects I've worked on, and a few more I'm finishing up. You can see a list of projects [here](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/projects)
+I've included ten projects I've worked on, and a few more I'm finishing up. You can see a list of projects [here](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/projects.html)
 
 ## Contact
 
-I'm happy to answer any questions! [View Contact Details](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/contact)
+I'm happy to answer any questions! [View Contact Details](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/contact.html)
 
 
 ## Contributing
