@@ -15,6 +15,7 @@ ___
 
 ## Projects
 [Twitter Election Analysis](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/project1)
+[SMS Spam Classifier](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/project2)
 
 [Back to Home](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/)
 
