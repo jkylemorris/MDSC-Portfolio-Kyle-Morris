@@ -1,3 +1,0 @@
-Link to code:
-
- https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/blob/main/Project2/spamifier.ipynb
