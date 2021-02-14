@@ -14,8 +14,8 @@ ___
 10. [VAE Encorder](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/VAE%20Encoder)
 
 ## Projects
-[Twitter Election Analysis](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/project1)
-[SMS Spam Classifier](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/project2)
+1. [Twitter Election Analysis](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/project1)
+2. [SMS Spam Classifier](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/project2)
 
 [Back to Home](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/)
 
