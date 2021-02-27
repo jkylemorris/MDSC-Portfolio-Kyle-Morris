@@ -1,6 +1,6 @@
 ## About
+<img src="https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/blob/main/profile.jpg?raw=true" alt="kyle" height="200" width="200">
 
-![kyle](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/blob/main/profile.jpg?raw=true =200x200)
 
 This is a GitHub page set up for the projects I've worked on in my Data Science career.
 
