@@ -1,0 +1,164 @@
+Initial seed:     stone, a score of them at least.
+
+      “what are they? 
+temperature: 0.1
+    stone, a score of them at least.
+
+      “what are they? at the hound was a death, and that i had not you
+      his so down the countrysir come way not a more clear fact of
+      the project gutenberg literary aspeaned to me to the surprised to me
+      about the moor and the country, and the moon man who wall the
+      stapleton was all the stapleton was possibly were brought to
+      the word and the country of the countrys. i have not along,
+      an
+temperature: 0.2
+    stone, a score of them at least.
+
+      “what are they? a more contant of the moor. there is the stapleton
+      and said to go a traged, and the stapleton was all asstant
+      the contrils who does the stapleton was on the moor. there is
+      the country which he had seen the stood for the country. “he
+      was nothing to me to the contrary. i have not a modery—the
+            stapleton was a mout a mout a shaded before the moor. there
+      was a 
+temperature: 0.25
+    stone, a score of them at least.
+
+      “what are they? a much along spect of the project gutenberg-tm to
+      a clear of the word of the countrys. i have subless that the
+                              are clear to me, but he has not the country of the moor. the
+      would not be about the stapleton was on the cases who was stapleton
+      and have allowed to pressed them to me to the country on the
+      farth of the moor. there is the stapleton was
+temperature: 0.3
+    stone, a score of them at least.
+
+      “what are they? allow the moor. there is the probabilition was
+      the old man who was surprised to me, and i have seen the cound of
+      the matter, and the door of the hound of the will stapleton
+      the project gutenberg-tm to tugg-word on the project gutenberg-tm togner.
+      the moor. there is the stapletons.”
+
+      “i have had not a modery that i should have been the project
+gutenberg-tm to tugg of t
+temperature: 0.4
+    stone, a score of them at least.
+
+      “what are they? as i am surprise the project gutenberg-tm to met
+      of the hound was it was a face of the word and the contrary.
+      the position of the moor?”
+
+      “he had not alight the crazed from the countrysir commone at the
+                  baronet was no thing of the hound was on the project gutenberg-tm to
+      me, and i had a small bet through the countrys. i could not make
+      the station was
+temperature: 0.5
+    stone, a score of them at least.
+
+      “what are they? almestown the moor. there are leaned with the
+            heart of it is a little thing of the moor. he is the door was
+      light before with his sigh unless you she did not get the
+      country where may not anythin to me the way of the stand to
+      the clear of entirely but the moor and house evidently that it
+      house i have sir charles was all the family, and what you think
+      the m
+temperature: 0.6
+    stone, a score of them at least.
+
+      “what are they? at the telegram.”
+
+      “why, she asked. “have i alwayson curves the other stapleton
+      the strange pinnced for this marries stood to with the words
+      should be be abandon the station to water the clear of his poor
+      of the whole ofe the other secred before him the bask of the
+      night of the farther showed was half alley which must cannot and
+      lett this manurn. “you make. but 
+temperature: 0.7
+    stone, a score of them at least.
+
+      “what are they? as the drivor out that when marrless that you
+      think that the hound, and the old blowing and more proficed in
+      this folk or some wide in a very moon hall there is a mis
+       of the left or the man and shad a most rispinion egagced the
+      thrilon boot of hil report of the hound for an elegting the
+      resolience.  i could not prepeveted he cuts rathed to resided
+      betweliution 
+temperature: 0.75
+    stone, a score of them at least.
+
+      “what are they? well, you think will legen them. there is the
+      criminal who glan at this line where but the found and such
+      out the pityourn of really them he came so her supposed into
+      stapleton for the already strange of the mean, but i had unterow very
+      light in the clear of his effortly. i run you have not already
+      infervant at the sting’s probable, or he like that it is on the
+      
+temperature: 0.8
+    stone, a score of them at least.
+
+      “what are they? i refuresting un. the cribled and poor bormated for
+      the lads who do they sallnow is to runnbers is a tragedy, but
+      this could here, don’t know you have so the two grounds away that
+      i was not that he had secued ou calewty afternor the noor of a
+      baskerville driving maht mangt few marted impatien that you
+      he had not lenets dr. watson, but now go the colksach of project
+gu
+temperature: 0.9
+    stone, a score of them at least.
+
+      “what are they? a modedger which in the project gutenberg-tm to
+      this certains had contrical from his own eyon us it un’s see
+      it! i could he moved to meetty? of imponitant.”
+
+      “but it is not that he escaped by the words postim, criint.
+
+      “why have here you have something to send this much more,l sa
+      paragary round us from the fally leant, on his chost of distradicight
+      on the place.
+temperature: 1
+    stone, a score of them at least.
+
+      “what are they? a darknuwled suply about the same wure which,
+            perform that you very to your charles, and was my face wreng
+      becoming uncled fife, two fotled all house. my fillo’s asked.
+      the passed that i was abandon for the lopp scepor for out
+      on the whole voice, and wackered the night upon the door of
+      all, morecost, stood anm half, kind hbuss, for.”
+
+      “it is no doubt a ste
+temperature: 1.1
+    stone, a score of them at least.
+
+      “what are they? it is, let thish, and did meant.”
+
+      “why, the man i heard the husband heir recolled down intime to ours—ang
+      and ask my friends. but no get a great call uncine was us gave
+      moor’s deach of the ogh unsilest sta!”
+      where it is the tamles to yourself.” he ald affanco but,eat
+      cascs, over i sperical right, that ish with sir henry under which
+      there” show now i think this 
+temperature: 1.2
+    stone, a score of them at least.
+
+      “what are they? sertch it, that made oh, fow gave a for!”
+
+      “my had “and it corsiredigity with abonation as i swould, through you a
+      pismos of the propered popieicn, through locens.”
+
+      “kept youre, that begint. it traged. why not was ownor a coombachd of the
+      was spect occurred for lait, where was irlisheding intworriting if
+      no section and most caite further mlawl spotitiogute mile, as
+ 
+temperature: 1.25
+    stone, a score of them at least.
+
+      “what are they? leath, tho sub.” then man.”
+”
+
+      “my pashetion melanchred along. if once messain” stapleton, as my
+      eity amidite, of drabws that you have had exactly which we aughed
+lists?”
+
+      “enory attentance the words like white loos very’s down be would goel my
+  hast upon on the old guesss. upon night usmating edgion after thaik no
+      smoknti, and that i could not gutet this never was you thi

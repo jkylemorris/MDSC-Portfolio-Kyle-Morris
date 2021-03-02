@@ -1,0 +1,214 @@
+Initial seed: he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      
+temperature: 0.1
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “i have not a modern and stapleton was a death, and the stapleton
+      and said to go a true that i had not along?”
+
+      “there is the light of the project gutenberg-tm to me away that
+      i stapleton, and the stapleton was not along. i had not alon
+      hbut i have seen the station of the moor. there is the stapleton
+      the countrys. i have not a modery?”
+
+      “i have had no doubt, sir
+temperature: 0.2
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “it is no doubt that sir henry to meet a miss stapleton was ported inteluss the
+            stapleton was on the station was not along the stapleton was
+      all the countrys. i have secred the station was on the cases
+      where we have seemed to me to be about the old mannger. but
+      the stapleton was chance of the way the cases who was stapleton
+      all the stood and the old man who was 
+temperature: 0.25
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “i don’t me that the stapleton was paid of the work of the
+            boot of the moor. there is a so darkle, and as i have said the
+                        the moor and the found our death of the moor. there is a so
+      the contrary before the contrilar friends showed the fact on any
+      of the moor. there is the stapletons.”
+
+      “i have not a modern and stapleton that i think that sir he
+temperature: 0.3
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “i have see you. but i have not her such a good day is a stapleton
+      for any way to prepared away that it is the contrilation was
+      light to your reports the stapleton and have he had not been
+      stapleton which i had such a giintled in any reacher with a
+      corrober to me, and the fact of the presence of the moor. the
+      country of the contrilar few down there is the colksanion w
+temperature: 0.4
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “why, sir, that is a mach any of the moor. i stapleton. there
+      was stapleton which he had a fact of the moor. a domino?”
+
+      “i don’t make a proceeded in the moor. there is the door of
+      the moor and gling the country, and all the burrshing to the
+      clear wand and the moon passed that i had to do you think the
+      farther since i had not already any other stapleton from the
+     
+temperature: 0.5
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “i think that he had evident that you will be the sust as a betwed
+      and before the word who could not a most life.”
+
+      “i was the hour of a death, and the lady’s manon that you will
+      very was a lond which i had solmes that you have seen the down of the
+      down street you that so thire but he was abandon the report.
+
+      “it is no to be in the death of the case was all the clear 
+temperature: 0.6
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “you have so curdded the ready down for the public work, it. which
+      he was not a tragled and he may in the lifted stood for the
+      hound, and not the pale, and the family spoken was a back of
+      the were right, i should have been away from it.”
+
+      “it was nothing some the uncold of a shad of the was which the
+            cliption for the perfortle of the moor. there is the against
+ 
+temperature: 0.7
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “the you we call already my to warning, the moon was realing it
+      information of a bulles of the wall well was the hall you an
+      think and expection. the hall on the sound of it under the was
+      out of the casen of the lond who was sleed of the ordinalies
+      we know that you were no doubt a privation roand. they or a more
+      ended and the old agreen of the time of scannal full pro
+temperature: 0.75
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “i vouce?”
+
+      “you should his sude, he was about this could not surmis the
+                    he said, but a way beaminal modernt dured.”
+
+      “i don’t say that you could kind torment,” i spoke for the
+      looked his hound to some little to traing that which ever the
+      eddence of a thought. it is a little was acting round the alone
+      houses dyseld known fellow, who we done back in
+temperature: 0.8
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “have it go out at the baronet’s emptration with the susceeve of
+      this mon i amabon the reports. it was not very of his few of the
+      surbsest guesse of the fast, and yet the hall but the dine.”
+
+      “our acquare which the point of the presence of death so the darome i
+      can stapleton that there is enorgets had takes —go barrymore.
+      the obstrort until we caught the own great boy
+temperature: 0.9
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “the looked the with the pointion for any ishorg. but for the
+      far accept the able to ’t leash, when he think law.”
+
+      “i appread of the hound, the passibey strong his brother and shaid, his
+      regroatiel interest with sirgenty which also. to musion.”
+
+      “i is the hall, and the death of a man favole cases is work that she
+      was name from the work and coming hand my window. why 
+temperature: 1
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      what side. it was a man have been recont that he lay another
+      something i could seemed aloust have you now, he may not myself, and
+      his eyeful friendspred. “i was not hegraudde with this most
+      purpo ther?”
+
+      “what’s sir henry, and two house
+      upon evident under dull.”
+
+      “but had intently that stapleton, stapleton profess even to the
+      verress his evident of any ary
+temperature: 1.1
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “uithon way this death. we foll them is in pu’ptering ?ashed of quie atto
+      sechered for the truth, oldey of the wabodle. i never it was
+      unk you are mrs. bakener and palled alived and you have not
+rounded from his.”
+
+      “why, you may on where had had no doucion that it was, and so
+           don. we may don’ atche stand at the an end, the two,” frive done of my
+      heaven deathplili
+temperature: 1.2
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “it is runion which only it. stapleton sush.”
+
+      “there, look which not know put howless there, as our purport of
+      hexear up. i xmyse, the know. “i have shet tept a curypre of
+      this stiatflo!” sies holmes hackerys, that placed trivigus. the
+      escaped bay good boot hold a restcred not any nerved calling vous
+      unkind her
+      un. “why had did not might remuition without we in
+temperature: 1.25
+he
+      died?”
+
+      “no, sir, i don’t know that.”
+
+      “do you puts for the moor?”
+
+      “that is from which light had made no to
+      not establid were half insly upon mluer, and unflatchingly
+      surprise to cut him from the deep, grey, and that watson once
+      ground when a vieded .ousteressing acceire the cold for his fivall
+      discoald no here, and what could never may face.  boiting—the mry
+      obviost? doe?”
+
+      “what then! you wi

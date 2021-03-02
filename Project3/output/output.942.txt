@@ -1,0 +1,203 @@
+Initial seed:  me.
+
+      “you have introduced yourselves, i can see.”
+
+  
+temperature: 0.1
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “it is the stapleton was position the word of the project gutenberg-tm togn
+      the cases of the station was not along the station was on the
+                                   the moor. there is the stapletons. there is the stapleton was porced
+      of the countrys. i have not a modery?”
+
+      “i have not a modery, that i was not the moor. there is the project
+gutenberg-tm to me away from
+temperature: 0.2
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “you showed the moor. there is the project gutenberg literary archive foundation was
+      all way the stapletons. we have not a modery?”
+
+      “i have not a more cleasing and stapleton was a lestaten way
+      and said the word of the project gutenberg-tm to that sir henry was not
+      the stapleton was alley upon the moor. there is the stapleton
+      the word which i had not for the hound
+temperature: 0.25
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “you have seen the moor. there is the stapletons.”
+
+      “i don’t me that you were to the surround butles that i had not
+      the word of the moor?”
+
+      “it is the stapleton was chance of the moor. there is a faced
+      of the hound and see the law of the project gutenberg. were
+      the cases.”
+
+      “i should have been the stapleton was pay of the hound was not
+      all was built of
+temperature: 0.3
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “you think it was a little of the heart of the moor?”
+
+      “i have had a more contant which he had some the foow which has
+      all the countrysirs. i have not go to the stapleton was not
+      the point of the country which he had never may be a little
+      one of the hound in the moor was a death, and i have not already
+      has been to her own street that he was so donation to me, and
+
+temperature: 0.4
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      holmes was the stapletons, and all the fact of thist cases of
+      the moor,” said he. “there is the light and the end of a fait
+      and have been the stood and the project gutenberg-tm to met of
+      the project gutenberg literary curgision work that she stapleton
+      out the place of the fartried to make a pured and half a reports of a
+      clear to the cases and was was a much as mos
+temperature: 0.5
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “you have not her almour the casess, but how beartion was pressed. when
+      you say that i had not upon a man and cleared to meeting the
+      stapleton wish the farther which came of a more claugh to her
+      stand to me to the project gutenberg-tm to met hill had seemen
+      uname that the word of the project gutenberg. we must call the
+      cliption for the man who walk to the thoughts
+temperature: 0.6
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “that, stapleton may the doing. the hall in this man of proving
+      contrivate scream to your don you give the become work of the
+            residence of the baskerville than to be in pale, and he alsone
+      him a little was concern?”
+
+      “i don’t know that it elded formaing so you as the down of the
+                      little of the moor and said his face down the word of the lay
+  
+temperature: 0.7
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “hacks.”
+
+      “had of on the stood of her lighted but at the criming, and the
+      stapleton gave the contron of the hound, and that was the stees
+      and a curgiod our direen of the hound had leys, and yet it me
+            straight which i have had a so withhe spece that you will be
+      stapleton to your could do whatsing as i could not but sir henry
+      by a moon. medixg stinbule. 
+temperature: 0.75
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “why was ruh in those sir henry to me to you for the hut, and the
+      man who do watson, quitash step sureing out the contrilar work that it enteoning
+      against so you some will under your effort of the farto many
+      on the coundy, and a man had checkly of it!”
+
+      “on the old mood. but of his little dine,” said he. “it was the old
+      of nowht for the intentions to holder observ
+temperature: 0.8
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “that, creath, a man” sand any rebrotc. this younged-fertted.
+      the deteive of it curres mestime to me. by intent was position
+      upon the down of the moor.”
+
+      “but arress that telegram which ever was us. we had orlen the
+      clear boy?”
+
+      “pursion of the corrobubbunt of his almost with my of the letter i have see my
+      back of the contirur difficulty no man is builtled f
+temperature: 0.9
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “you will blice we not my flew other of a skent i think that
+      i could here the idgevery, where the purence of stapleton,
+            and account away once.
+
+      the words were of the country, and the about signt of this hagned
+      unclind face of that any followed wigh gravel by valles, but i rememly
+      amay. the very moor?”
+
+      “now, it is postmed ruion which he has name him wa
+temperature: 1
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “you kind tyon, them, so is namerly villance!”
+
+      “where brestery occasion. it claint this man?”
+
+      “then that she came, go any reguined to be intemmede this your
+      unpedsid come with shades life contally this hall on the were
+      and terford.”
+
+      “were allow it though light, or drivin no down the hall stapleton is
+            light hid not a very horse. that such at the pass
+temperature: 1.1
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “having you will done.”
+
+      “and yell stapleton for allow last so establish him at the cammestros,
+      and more that the moon hall in that dr. mortimer, how let me
+      redaran a one signs of whatse upon your vidles. again. i have the stended for an
+      it, don’t tuhned them. the work of the moor.
+
+      most himself observed upon the moor. “and iking that or diref
+offer can abfvem is 
+temperature: 1.2
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “perhamely irrelies and evidents at this ppots diving incrifted
+furthing to that, and not grae us but mipred of last now! vocy
+     loding the abulis and loud a mighty desmon your kind street.
+      but that any found it recurro, not” one whole thing. you see ohe.
+
+      “a profess that some injubiootlonet thruis.”
+
+      “it never whom i ceat’s street to not watser to uck the arrance dind but
+temperature: 1.25
+ me.
+
+      “you have introduced yourselves, i can see.”
+
+      “do you have goid infarrian. i am ighith that holmes.
+
+      a sgumeting. if i stanlliolourage that about the far wacking
+      expanitions after any conneirs it explanation which i had sa
+      down they would las not lad them.”
+
+      “in there is this azsing ocder to me, and da“ked said that the
+he showed bewotgitions room.t publicied.”
+
+      “the doon, lack, and severayed, sir. this i thi

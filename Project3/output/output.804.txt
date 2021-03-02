@@ -1,0 +1,181 @@
+Initial seed: 
+
+      “we must close in on him rapidly, for he is said to 
+temperature: 0.1
+
+
+      “we must close in on him rapidly, for he is said to be all the
+                                 the moor. there is the stapletons.”
+
+      “i have not a modern and stapleton was a stapleton was alley of the
+                          the moor. there is the stapletons. we have not a modery. there is
+      her alieus. we have not a modery, watson, and the stapleton was
+      all the stapleton was paid of the moor. there is the project
+gutenberg-tm to 
+temperature: 0.2
+
+
+      “we must close in on him rapidly, for he is said to me about the
+      country of the station of the project gutenberg-tm a she has
+      the country, and a modern. “i have heard the stapleton was
+      all the countrysir come way posses. i would have not a modgunt
+      the cruck.”
+
+      “i have seemed to get the countrys. i have seen the station
+      of the work of the moor. there is the man who was stapleton,
+      and a curious the country. i
+temperature: 0.25
+
+
+      “we must close in on him rapidly, for he is said to me about it
+      stapleton was possibly the stapletons. there is the stapleton
+      and said, and he had severe the country which the project gutenberg-tm a
+“it is the station of the project gutenberg literary aspean to me to the stapleton
+      the countrys. and the hall on the latter and the cold, and the
+      other station, and the stapletons. i have not be a most contain
+      of the countr
+temperature: 0.3
+
+
+      “we must close in on him rapidly, for he is said to me any
+      the hound of the project gutenberg literary propition of the
+      could not any word the other stapleton was pressuse that the
+      last i had a truth the hound was not and to the hall showed which
+      as the presence of the hound was all the contron fire will be
+      clear to be a most contact them.”
+
+      “you have not a more contaid on the house no pitten fered that it
+      
+temperature: 0.4
+
+
+      “we must close in on him rapidly, for he is said to go the matter.”
+
+      “i should have been the point.  if you cannot me to me, and he came
+      of the hound was the doing.”
+
+      “there is no doubt a mestance which i could not know meed and
+      stapleton was on the coltant of this hate of the truth and for the face.
+      and you could here her to waited the stapleton cannot blust
+      farther that she had not meets were stood and along. t
+temperature: 0.5
+
+
+      “we must close in on him rapidly, for he is said to go the
+      baskerville of the probabilition with the fast. there is the
+            larse of the contron of the moor. there is the possess to the
+      lay of the hound, and a paragection and he came for any cherions.
+
+      “why is no good which i have had no doubt, what is the coldsant
+      of the bringing of the project gutenberg literary words, and i see a could he
+      gling. the wainted 
+temperature: 0.6
+
+
+      “we must close in on him rapidly, for he is said to be all that
+      hold her account of a few ming the work of the project gutenberg-tm to
+      the countrysir and to your probablatically for over the moor
+      and aclosed and the man all the stapleton and followed the project
+gutenberg-tm electronic work, and i have not our friendspred upon me
+      coming on the moor
+      it was not cared to hear that he has undon a few mines and
+      not fo
+temperature: 0.7
+
+
+      “we must close in on him rapidly, for he is said to me, cleared to
+      giving from them.”
+
+      “what some turn the point of a modernal falled of the stood and
+      punded barrymore, proposion for any warning that you were to my
+      inferviot that some light a great ground, sir. holmes, “that it
+      was not alook which was alley and had a more contair more the
+      clows wheoly fashance.”
+
+      “having you any felt,” said holmes, and that
+temperature: 0.75
+
+
+      “we must close in on him rapidly, for he is said to me about he
+      had “on my which all was a stapleton with his caught is the second.
+      and disent to me, but as several permice of the ordinare “pointion way
+      some down to her, and what signtion and brother he was again
+      his trageds full wnet down had been out of the posses. it was not
+      that where he camewarred and there and indering the stranning
+      out a stapleton a miss b
+temperature: 0.8
+
+
+      “we must close in on him rapidly, for he is said to make his
+      acting a copyress, the hall who think it would not got the butler.”
+
+      “that is there is no reparable. we asked to go a stapleton.”
+
+      “there was no recall death.”
+
+      “no, sir! iabous me the command of impatient, hew that it was
+      about when he stup path acceps all about it has with only
+      moor?” she project gutenberg-tm electronic work. sinced the
+      yor that
+temperature: 0.9
+
+
+      “we must close in on him rapidly, for he is said to make for
+      you as that you must explanse the passion of visiting so it enteonite
+      it enthury that you that, is the moor. he but a better impres
+      his heas not messing upon reget the hair there was nothing to
+      my unentelling there of the will a man ebood, cleck, however,
+      betwee at a reacther. “i have found it you the butler were means, lied
+      of
+      the wide.”
+
+      t
+temperature: 1
+
+
+      “we must close in on him rapidly, for he is said to feating a
+      clood clear fass?”
+
+      “night incled to be intime, but he aly rial so it tust about
+      all my possed you must off at realing a raiched of her hated
+rite a locksain lead. dr. watson, without back to hear family, led
+      knowledge with the case which from the estate contless.”
+
+      nothing into the question of notciiual few canreal man his enord
+      for the topply, cleare
+temperature: 1.1
+
+
+      “we must close in on him rapidly, for he is said to get the house
+      interesting since at my ysomesion that i heard i had seen the
+      moor. wredger of the whole of imam well be exacted.”
+
+      “loos yougly.” he froe of gy man the doon neck of a
+      voice which she learn upon   clear clain this obstruptorn, ssowle dr. mortimer in the residence
+      obseloce. it will not us mays realed aharced his able tall
+as his putulate being farther of 
+temperature: 1.2
+
+
+      “we must close in on him rapidly, for he is said to go himfmon
+domed. but, we had now ou confed his flarectimed next train?”
+
+      the payed with an of had electronive get at this only isnse a
+      colded in the sight for there, which guean thright, already acrosent spreet
+      fam that there are the nowing at ekno!” he graming.”
+
+      “but whun he had left me. “i amay. whthougatipal find the fiently time. and that sidel impotted
+      which ci
+temperature: 1.25
+
+
+      “we must close in on him rapidly, for he is said to very unhaven
+      that it esertly that she reveid. you any not ight gettilated
+      on the chance of this coninburion. no roable, but.
+
+      “you must contairus broacty to wroth’ told therefore. it then they
+      rase.”
+
+      “did you capn descredting with a proceeding ho, and az“ownd
+      mourd on the escaped fithe, gange i hid and brown riddselfes
+      in the twat, the work of dr. moritio

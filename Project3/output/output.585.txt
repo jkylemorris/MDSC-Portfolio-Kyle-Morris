@@ -1,0 +1,133 @@
+Initial seed:      “my dear fellow, you must trust me implicitly and do ex
+temperature: 0.1
+     “my dear fellow, you must trust me implicitly and do exactly is
+      the cases.”
+
+      “i have had no doubt, sir, there is the project gutenberg-tm a
+“it is a stapleton was all the stapleton was position when the
+      country of the countrys. i have not a modery?”
+
+      “i have some the barrymore, and the stapleton was all the old
+      of the moor. i was alley and stapleton was a modern and stapleton, and the
+      country which he had not a mode
+temperature: 0.2
+     “my dear fellow, you must trust me implicitly and do exactly in
+      the moor. there is the project gutenberg-tm to me a clear of the
+                                the moor and the moon before the passes of the moor. there is
+                    when he had seen the countrysir come of the hound was not alon
+      hound which had not a more clear facts and the position of the
+                              the was a stapleton was not me a contrivate 
+temperature: 0.25
+     “my dear fellow, you must trust me implicitly and do exactly is
+      the moor. there is a glipp of the countrys. i have suggest the
+      other stapleton conclusion was on the project gutenberg-tm togn
+      anything which he had seen the possess of the faced of the
+            house. if the project gutenberg literary propited. the work of the project
+gutenberg-tm to me away from the project gutenberg-tm and acting to
+      the country which he had s
+temperature: 0.3
+     “my dear fellow, you must trust me implicitly and do exactly is
+      one of the track of the station was not a contrive at the cound of a
+      stapleton of the station of the hound was on the project gutenberg-tm a
+“is a man was the project gutenberg literary propertion of his faced and the
+      creature of his secret and the stapletons. we have not a clance
+      of the moor. he was not that i had not for the house intention was not
+      against 
+temperature: 0.4
+     “my dear fellow, you must trust me implicitly and do exactly is
+      with the stapleton. i had seen the country, and that was on
+      may be a sundity of the project gutenberg literary clear to the project
+gutenberg-tm afterfor a modern. “and there are the stapleton
+      was sentiat the pection of the country that this man had contled.
+      the matter, and that the countrys. i have paid of the project
+gutenberg-tm to go himpassed the down before t
+temperature: 0.5
+     “my dear fellow, you must trust me implicitly and do exactly is
+      the hall and the colds, and any way that it was not upon an
+      contrivate pursions wrong a compound if the prosection was fled the
+      criming and before the word of the moor. he alvest the other
+      of the family boo barrymore!” said he. “there is the stapleton
+      the cases of the contron conclusion the project gutenberg-tm e
+      had had even back this house. we after t
+temperature: 0.6
+     “my dear fellow, you must trust me implicitly and do exactly in
+      the cruckmespacted and the thing against me a face that she
+      said some well be surprised to me, and that it was not allowed the
+            distairs of his affairly way no have creet of the cross of a
+      darks faced leaned which entirely to me away from this manon in all
+      as i have along on the chance of the way postmation to me, and the
+      able was surprised to me, 
+temperature: 0.7
+     “my dear fellow, you must trust me implicitly and do examination
+      of this poor from the paid of the burged him. he propose all
+      the long alsolice any of could you any straight thick to any to med
+      upon the position were to all my of that it the little one
+      near some torscifted. i assure your friends has been things
+      beart and done me on the country, and a remainal of derivate
+      could he had no dom. no london?”
+
+      “i do
+temperature: 0.75
+     “my dear fellow, you must trust me implicitly and do examine the
+      darks from all medicight that when his will, do you goe of a
+      interesting and upon a colragery running. on the visit or the
+      letter might had with her from butand and down regent be a fair
+      of lyess incessance which is alse, with the risen portrait written serves.
+      there is      some wind of raisthing to be into i saw the crease way, and
+      the from morning.”
+temperature: 0.8
+     “my dear fellow, you must trust me implicitly and do exactly the
+      looked shirled is from hid brought midell on it the moon showed us.
+
+      “exactminty, you, this man i was already is out of the faced of certain
+      i will be read by our others interestor to walking not for the
+      one of the wird, all how dead, a most warting your project
+gutenberg.ome as the idlestion of the family upon the call of
+      the way looked my down befor other 
+temperature: 0.9
+     “my dear fellow, you must trust me implicitly and do examine that you don“uther to
+      this must should have had no dogbipelivited. wherais was esaon
+      after the topentty, but my ownesly, but my faced which you were
+      his flachve ofried. i think that sir henry’ butst from the sabmered by
+      and heaven waiting from the restwerk for of any dead taken awone
+      ithing to a prices!l which meets to conviction of most looked
+      the hound n
+temperature: 1
+     “my dear fellow, you must trust me implicitly and do exigty imnote
+      of sound intentive from butin to very on the passablet, how doubt it
+      come wire that a very too that by threl-moon your face dr. mortimer
+      and shore it have allowed to firl the burgstuling si very
+      stapperal tinnet dinns tapg to the pressemes of the copyrist or
+remitted with an extended farthing that when i heard i see hhy.
+
+      “     it cannot almost care him ri
+temperature: 1.1
+     “my dear fellow, you must trust me implicitly and do exgemtinay aling
+      opided at the street stvames of eyes granselvion, the pityf
+      of our edential, deep. as he brought to me. “i was mr. sherledely
+      position too the death of my turn, reding it-wide of the
+      vary ow start, perform that this mr, or thed seemed to get
+      against the rememunded already have pained ours. but for the
+      inylud other expect fluthed remember it, and d
+temperature: 1.2
+     “my dear fellow, you must trust me implicitly and do explant times. we
+      shiy the. “well, screamed a forward of it, and only manks of sfiftanced so
+afteres.”
+
+      that?”
+
+      “exactly. where it egeir backs, my friendsp no ishopepingh stapleton
+      moreine. there was a immartion in this man unkulling indeton in the
+      moutlen of assome mentibule, and ableatry doclic interest wite
+      arrest writered with cleasing forma, for  my ut. i it 
+temperature: 1.25
+     “my dear fellow, you must trust me implicitly and do exactly intimage to
+      his inkmonburgf. the never found as you is foot the doin whice
+      have and doing?”
+ispall aafhily fo must led his could be ra hall houch-grim io
+seend, now, and eder that sir henry were swift befort” cleancted
+      easil devile.”
+
+      “and herfuature. and theal.  we were, disy if his eyel eaved
+      which me peemed to fell ’tharred be again this mr. jlque pase
+seotit

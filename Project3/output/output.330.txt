@@ -1,0 +1,154 @@
+Initial seed:       “look here, barrymore,” said sir henry sternly, “we ha
+temperature: 0.1
+      “look here, barrymore,” said sir henry sternly, “we have been to
+      the hound was a morning.”
+
+      “i have not a modern. “i have not a modery?”
+
+      “i have had no doubt, sir, there is the contrils for the words which
+      he had seen the station was on the moor. there is a so down the
+            stapleton was all the countrysir come way not a more cleased to
+      the word of the countrys. i was precice the moor. there is a
+      stapleton 
+temperature: 0.2
+      “look here, barrymore,” said sir henry sternly, “we have been to
+      the way the contrilation was not a more clear facts and the project
+gutenberg-tm to that stapleton was not along, and there was not
+      the moor. there is the project gutenberg literary aspean for the project
+gutenberg-tm to that she had not go to the hound was not alon
+      hound was a death, and that it was not that you were to say
+      that i had not a modery that i could n
+temperature: 0.25
+      “look here, barrymore,” said sir henry sternly, “we have along?”
+
+      “i have not a more contairs friends than the hound was a house
+      stapleton curves of the hound was a lestrad, and that it was
+      the project gutenberg literary propition of the project gutenberg-tm to the
+      country which has been a clear with the project gutenberg-tm a
+“is a man we have along the stapleton was all the stood and spount
+      that it might meet you think
+temperature: 0.3
+      “look here, barrymore,” said sir henry sternly, “we have been an
+      contrivate the country, and i have seen the elightion of the
+            stapleton with me as to have been the other light of the
+            stapleton was on the country, the country, and i have not alon
+      hbut he was about the matter was all the project gutenberg-tm to may
+      the contrary, and the stapleton to him to me to traded by the
+      few any of the read of the st
+temperature: 0.4
+      “look here, barrymore,” said sir henry sternly, “we have along?”
+
+      “there is the matter of the word of the moor of the project gutenberg-tm to
+      a glipped but the will be interesting accesse, and the old
+      which he had becolive the stood and the stapletons. but it
+      better that when shere with the man who ward the burrshing of
+      the passal could not be about the placied on the moor, and the
+            compleve of the contrary. t
+temperature: 0.5
+      “look here, barrymore,” said sir henry sternly, “we have along?”
+
+      “i have always the tragedy, and i am not be in the stapleton
+      that i have stapleton was on the point of a cold, and that he was
+      stand to remident to be a little very sir henry baskerville.”
+
+      “and then been to be a way before it is aligian the clear betweer
+      could not the surmised to me, and was nothing to say when is
+      the held mist is alieus. the door o
+temperature: 0.6
+      “look here, barrymore,” said sir henry sternly, “we have been the steady
+      and was evident in a hound, and i could hemes that i can be ableatk to
+      the stapletont of my work of my reporting the lond there was
+            the baskerville that the dine of the hugbery of a walk to the
+            well be the section of this power of the hall which is dead
+            and have not me, and he said the own great granse with the
+      cold so indecl
+temperature: 0.7
+      “look here, barrymore,” said sir henry sternly, “we have to have
+      be for the matter of this most learn to seep the dented his
+      liwine of actwwier to discovered disceptre which alcefused the rock of
+      him any alistance, the itless of his sagance. at this meant.”
+
+      “i hold me those death, and the stapleton could done black, that it
+      stapleton may not came where he gueatt. aly easher and along,
+      how do you must as i run leal
+temperature: 0.75
+      “look here, barrymore,” said sir henry sternly, “we have now heme includice of the
+      presence of the lair of the matter of the cases.”
+
+      “i am about the project gutenberg-tm place full the old mind in a
+      raiced.
+
+      “at my feint to make in a number. all thoughts swear an esempt
+      and sherlock hold miss stapleton.”
+
+      “early of gold to visinty of the door of the bask, and the
+      ifteres of the project gutenberg-tm electroni
+temperature: 0.8
+      “look here, barrymore,” said sir henry sternly, “we have been
+      clear officed. the moon moor?”
+
+      “yes.”
+
+      “it stapleton which i had not allaice the shades.”
+
+      the heart is since it face, his instructe. the project gutenberg-tm a
+“rere when he sugd of the moor, and he had had hispperance from
+      an instant any way the probabling boots, and yet mestence at
+      she explanate that you think that it was a visit me to you will
+     
+temperature: 0.9
+      “look here, barrymore,” said sir henry sternly, “we have already
+      expected. we and not think which , i was stapleton was the section.
+      hip. that ware to the grived, undon read of the stapleton which
+      he lay do where keyid seen which ithing to his portion of us
+      foo my clear and membuted and shade by any way the hall shot out
+      the next opent you guind the street still it was connections.
+
+      “is not the way was ported so yo
+temperature: 1
+      “look here, barrymore,” said sir henry sternly, “we have permided the ticted by at at
+      chicing. ass. if my mission was nothing and the hall small mo
+      unentended other was at the gleoncityful of doguth untily fertied
+      our epertain of the hills was soid now gave on now know.”
+
+      “and the “y’s no doubt, times, the heart and the contrilition we had fallle, his cussed
+      boult. sinngh them, and whure?”
+
+      “if there are i could no
+temperature: 1.1
+      “look here, barrymore,” said sir henry sternly, “we have seemed to
+      this view on emptiel of other daysing as for these doin of
+      a gave a moriliss—gy
+      brouchtyprupely, much. to do was cont thick who were standino
+      not remain!”
+
+      “and  us, the word thir brome but of about sir henry on aider
+      of the came of his pointion to ivnomberad down the last agoningerd.”
+
+      “there, very onfion and the durentman?”
+
+      he detail 
+temperature: 1.2
+      “look here, barrymore,” said sir henry sternly, “we hand on the
+            chasion.”
+
+      “how have so, you any ralling, pelfal leane clearly face of which
+      lamp that he down, my dearth, the hound, strmish a better a cersain.
+      telk, butesind what he learned peichaved save rising a
+      contriral for anyite of rais?”
+
+      “none or dammter.”
+
+      “why i think a. this written out of us iventle, but i am behin no, gawable
+      that mis
+temperature: 1.25
+      “look here, barrymore,” said sir henry sternly, “we have secured
+thightt.  badred mich.
+
+      i us to know downty bef’s dritel fertlian swear leyes who was post
+      in occanss we live, i were by aof—casiinted the, fled fact
+      one own to you, with nothing to discolivition in any report on this reloce
+wial pundact guiraly furyfle, other, dr.xmme from updy of eyith
+tyscheme of invended a soctfound a wipp time.
+
+     lzalle a very putliuss as meun

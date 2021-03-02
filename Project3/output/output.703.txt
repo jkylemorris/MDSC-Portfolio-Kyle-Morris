@@ -1,0 +1,186 @@
+Initial seed: rl to me.
+
+      “you have introduced yourselves, i can see.
+temperature: 0.1
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “you think that i had not already the project gutenberg literastice
+      for the law and the country, and the stapleton was position of
+      the moor. there is the stapletons. there is the stapleton was paid of the
+      intervesing accept the stapleton was all the stapleton was port
+      of the moor. there is the stapletons.”
+
+      “i have seemed to get the moor. there is the staplet
+temperature: 0.2
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “i have not already he had secured out the moor. there is the
+                                the country, and the cold down the point of the work of the
+                                  the project gutenberg literary clablest of the countrysirsterary of the
+                              the fact of the country of the countrysir come way not any
+      of the country. there is the staplet
+temperature: 0.25
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “you have been the point of the moor. there is a so that the hass
+      of the project gutenberg-tm to that the stapleton was pression is
+      the stapletons. there is the countrys. i have we had not alon
+      little that i had not come to me to the suddenly for the cases
+      when there is a faced and the cold, and that the position of
+      the baronet.”
+
+      “it is the stapleton w
+temperature: 0.3
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “why, then, i had seen the possess of the project gutenberg-tm a
+“i have been the countrys. and yet is the countrysirs for the
+      countryside between the project gutenberg-tm to when the country
+      of the project gutenberg literary project gutenberg-tm to seement
+      had one from the countrysirs of the work of the heart which
+      he was not the project gutenberg-tm i could do wh
+temperature: 0.4
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “how that is a modern the telegrad, and the stapleton to me,
+      and that was a learn and help to the wall in the moor. a most
+      as i could not go the man of the house, and i have alwfulust the
+                    when he had not always kind the matter was not for the hall of
+      the countrys. we asked me the station of the moor. there is
+      selden this many portrivius days sur
+temperature: 0.5
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “you do not remain the moor. there is the stapleton which the
+      moor. “he came was on the performing by the casesial, and i have had
+      have no one could prepared of the secced of the moor. there
+      was no man to runn a contrive understand of the hound of the
+      interesting of this mans, and the stealth of the hound and the
+      included between the action of the work of the
+temperature: 0.6
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “on the young to such a most straight to pretted him as i saw
+      a prose or the moor, and that the fach and always more private
+      impation was down to the family fulused and the was of the
+      facts and black thing to the old now stapleton stapleton, and the
+      baskerville and darkness. where this your converic all was a
+      down again him as save out of the villag place of 
+temperature: 0.7
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      it make it had only pugh out of the friends ofrogute which may
+      brought the proper, and that shere well hutbant along the sha
+sponsibl, and he took him and boot the flance which we were so
+      brinnot you campaing for the word who would not regein that the
+      interfirutes thins of a affair of this little driven fellowed the
+            facely of this old moon had a morning, whic
+temperature: 0.75
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “really, and we have cradles that he has not always candone put of a
+      down moor?”
+
+      “yes, i could not us to record the intention was peryain to him
+      occasions which leaned the house where he made, however stood
+      the faced for mey and the worl which he had secret upon the
+      inticend upon a true upon your deside was considerate this,
+      and porget. the burrs. let 
+temperature: 0.8
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “why, you should have not upon that surmout.
+
+      the shettrist?”
+
+      “no, sir, there on in a lestrading to side. it down regent be
+      afternigh the possed and dine out of this portrivant who call
+      the retilf in fromowed the builes as i think that ?as a perk
+      on the migh isnlous. the cases and excute to this one intellided
+      the stapleton.”
+
+      “exactmited, it was
+temperature: 0.9
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      how he could have everyin’s victhaver.”
+
+      “and a guatte enord and the drive beside of holmes, but on tay
+wated forma, now he againsint came for any already came upon an
+      through you came that you is to his mand mand sugfing all to she
+      wild, all seclet far awmush that you could not know.”
+
+      “you have not a morning that i have along—on the ode—prisp of
+      the contrim
+temperature: 1
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “i saw him      londo, now all ready we fall how cleared with us, a lussed
+      in the kind until  but get your broonh to me, did midelf of the
+      oven dr. mortimer, but now, would have stretch crination to
+      not to be allerd said as man i think the of pays,
+undefitious will see our face clear litely way you cost. as one
+      bould you will see that which friend thaigs and aliftl
+temperature: 1.1
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “it could fould think of them,” said the stapletons.
+
+      “it is, i have sented the some. if coming along unupered to lounded out
+      it well, know a fome baronet.”
+
+      “why, do you have even recordter ipention wish the methonge and
+      inpeved a baronet hall, very clum dentitions paiter for loss
+fousd you camebruded the more round is that you was on his “and
+      with me hatche
+temperature: 1.2
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “how i cennous? asswered the essatulary kindide, touch knowing
+      of thieght. “upon his death, that on itwards behth goghacided. if the
+      tapres of kinn staring his exiszet one
+      sordly telegrapl of sitting fack in the telogy posnible street
+      we weremails the found as that stand from which i. the dire to within
+      those enough that nothing and by back traing, spaller, b
+temperature: 1.25
+rl to me.
+
+      “you have introduced yourselves, i can see.”
+
+      “why, looking, you think you may was close that keyi happer to
+      down be wah, nor real wosts. a letters day, a deay of evident
+      of intentitial, and not betoragem,” said holmes, therefore
+      helder to me, long after but, but it stapleton?”
+
+      he first, peryimes., whom it was a cound alonp rekipo?”
+
+      “and his reselder stood marks up, owch to gave a lears of the
+      yo

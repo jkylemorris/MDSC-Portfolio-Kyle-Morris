@@ -1,0 +1,162 @@
+Initial seed:    features.
+
+      “would you wish dinner to be served at o
+temperature: 0.1
+   features.
+
+      “would you wish dinner to be served at once or the hound was not
+      the countrys. i have seen the stapleton was on the country.
+      he was not the moor. there is the stapletons. there is the stapleton
+      the stapleton was on the countrys. i have such a clear to me
+      half all that i had not always bace was not a considerable to
+      the word which i had not already the stapletons. i have not a
+      stapleton was a stapleton
+temperature: 0.2
+   features.
+
+      “would you wish dinner to be served at once or it on the project
+gutenberg-tm electronic work, and that it was not the stapleton
+      and stapleton was a face of the hound was a morning.”
+
+      “i have heard a death, and the stapleton was all the strange of the
+      country of the word of the project gutenberg-tm to me this morning.”
+
+      “i have not a modery. there is the stapletons. there is the stapleton
+      the moor. there is
+temperature: 0.25
+   features.
+
+      “would you wish dinner to be served at once or it and stapleton
+      the moor. there is the stapleton was on the moor. there is the stapleton
+      the stapleton was not melicht of the countrys. i have not come
+      of the station of the moor. there is the project gutenberg-tm a
+“it is a glowed stapleton was all the cold, and the project gutenberg-tm a
+“read if the project gutenberg literary propition of this manon was a faced in the
+
+temperature: 0.3
+   features.
+
+      “would you wish dinner to be served at once or the way of the
+                    the hound in the moor. there is a back struct of the other of
+      the fartried to met this manon and she had not he will be amon
+      his wisplies with the matter small alone but the reason to me
+      half all the project gutenberg-tm a broaction of the head face
+      the countrysir come and have been a sparing so thich in the
+      interved and being
+temperature: 0.4
+   features.
+
+      “would you wish dinner to be served at onces of a man was that
+      the stood and come to me to have been the time of the older
+      as the down again. there is the paid of the hound and all the
+      would done in the moor. the poor with the same upon a collest of
+      the moor. there is the farther of the word of the hound was upon the
+      other station was on the prosenced before the country. “he
+      was not that i had not me 
+temperature: 0.5
+   features.
+
+      “would you wish dinner to be served at once or the house in the
+                   of the station is the hall and the seculation was that i had
+      great the down of the project gutenberg. were she had not get
+      upon the station with us.”
+
+      “i have not a modern all the case of the moor. there is a hour
+      save the hound that i had not already showed the resting which
+      that the project gutenberg literary rushed of the 
+temperature: 0.6
+   features.
+
+      “would you wish dinner to be served at once or it against the
+      held if i had to tradend that you may remember to say denoth
+      one ot a stand to report out the death of sir charles’s stapleton,” he
+      said stapleton, and the stapleton was on any room to refubutied
+      to me a fait and down to the moor are also being to saled you
+      to scarge it was a somewhere any ares of surprised to me, whom
+      the further of the pr
+temperature: 0.7
+   features.
+
+      “would you wish dinner to be served at once or the hurt of the
+                  recordent of the moor. there is a can gentlemen great guest
+      and come as i could have he meet to fore that i had not perfectly the
+            was some houses that i had conttrod, and i not be a sherlock
+      mour on the down of the lafter last i should cook and used his
+            electired. that experies to the fact of the moor. there is a
+      do
+temperature: 0.75
+   features.
+
+      “would you wish dinner to be served at once to him to you amone the
+      back sigh cleasing strange there, my few faced. what rushed
+      hall the guech of the hound was hutbanted it a pich into the
+      miss have no doubt, watson, but it is done, profing alsone so
+      rose that i told himer. sir henry to very same guesth this
+      and she tay from that hall intention of a glipp for an exceivbleded intimes way
+      of care, but n
+temperature: 0.8
+   features.
+
+      “would you wish dinner to be served at once ohip his time this
+      had imagped, the mestable, and i think stapleton had emplat the
+            shearf ’seped evident which i had never that you are such a shans
+      fled down the sobjent of the grimpen scatter. a rose i wish i had
+      told the letter in the quarter. there was no up of aispossibly to
+      shad a could you anothers to me to us, cleared atonence of intention is
+       
+temperature: 0.9
+   features.
+
+      “would you wish dinner to be served at once refuser to me had
+      addribity the surgeoficated energior agero’s surprised to
+      the flanked fang has been a moutled. it was channg deyviberscal friends thank you
+keowl—tques which
+      he ale you were the project gutenberg. we good blowing back to loudde not them. he
+      never shot make you have never husband you will sake away. dr.
+      it feet you. at thin potn from this lated di
+temperature: 1
+   features.
+
+      “would you wish dinner to be served at once. “yeamitable brings our fase
+      and straight way the other stronged and that in the burge, and
+      laughed the door and from a pax to voly learn to prosiction
+fot death other swoaking hit rise and upon dr. mortimer, his
+      clouds, and he too. now, if they could not knows their to my
+      took with you i assue certain this stane.  hhat should me.
+
+      “you do no trad, there the farth
+temperature: 1.1
+   features.
+
+      “would you wish dinner to be served at obclet of the statuating
+      indeath he had hear could stapleton not!” a rublition, your
+      obstroon hubbfven lifingiming woman, the wide.”
+
+      “go down anxumanatity in as us, with his found sir charles?”
+
+      “and ahos. stay, a by which have heavy to retimes we must slablet
+      the shumn leasaly when had you loye thish to be probable dognt
+      faced filu claont recesselical friends t
+temperature: 1.2
+   features.
+
+      “would you wish dinner to be served at onder as using into upon it
+      genedck
+f, a clawswdder. we sayor hund stapleton was brike. but blfervant, or eyinge sush
+      and paakly ourn, that, dr. watson.”
+
+      “why evived the placion fiftlent of this usghime to hive runn
+      of xtait and yet refection’stker’“lfansers, where we make da“nside thew, as the
+      farth-gognt i ask. that in cypots of him back repassed for the
+      night
+temperature: 1.25
+   features.
+
+      “would you wish dinner to be served at once. bltwwalker to us.
+      recoamage baskerville. but however and am thying france, and
+      his permout. i have had been away, hut into colleationd imnation for
+      the mound buiuntwas and you were cleating by inarred by litel a messst
+from “of goingh but,ed holmes  face, duried. “did you go aponetour busine,
+      and eurn now.”
+
+      stapefility well think that you would restain little mi

@@ -1,0 +1,144 @@
+Initial seed: said sir henry baskerville, “perhaps you will tell me, mr.
+ 
+temperature: 0.1
+said sir henry baskerville, “perhaps you will tell me, mr.
+      holmes was a little of the hound was not a contrive at the project
+gutenberg-tm to me away from the moor. there is the project gutenberg-tm to met upon the moor. there
+      was the stapleton was position the word of the moor. there is
+      the country of the moor. there is the stapletons. there is no
+      the will see that i had not always there are the stapleton
+      and the stapletons. 
+temperature: 0.2
+said sir henry baskerville, “perhaps you will tell me, mr.
+      holmes was a between the country. “he came that i could not he
+      down the countrysir commened and the stapleton was not melid
+      stapleton was on the moor. there is a so sorrow, which he has
+      the was not and to me, and the hound was not a remains of the
+                                  the cases.”
+
+      “i have had no doubt, sir, the moor. there is the stapleton was
+      of the
+temperature: 0.25
+said sir henry baskerville, “perhaps you will tell me, mr.
+      he had to down that i had not always there are the moor. the
+      stapleton was on the work of the wearth to me, and i have not
+      been to the telegrad, and the project gutenberg literary proyection of a more complete of the
+                            the project gutenberg literary propertion when it was a speak moon
+      the cross of the moor. there is the contrils can interesting
+    
+temperature: 0.3
+said sir henry baskerville, “perhaps you will tell me, mr.
+      he came that the poor from the country. he was alley as i could not got
+      the story of the old moor, and he was not the other sign of
+      the moor. there was no granse of the colds, and the something
+      of the countrysir come of the way was on the project gutenberg-tm torzamly of the
+            would not only the old moor. the project gutenberg. were serviced the lond waiter was not
+temperature: 0.4
+said sir henry baskerville, “perhaps you will tell me, mr.
+      the moor. when i her it was not the prosences. at this mans, and it has
+      all the country, and that he was not a more corner, and the
+      statted faced by the wind but that i was sure the statuating
+      acturion, and the clear to the countrysir come way interest from
+      the moor. i was read it think if you will be a glimpse of his own
+      of the lond stapleton was on the door of 
+temperature: 0.5
+said sir henry baskerville, “perhaps you will tell me, mr.
+      holmes, that it is not the stapletons and down to your friends little
+      clear to me, and any concean with me as deserved and alimare the
+            intention to a larred who donaid, and i have some for the
+      was or broughts in the way of the sign of the line of the cases
+      and almering to me, where has been so traged and you think.”
+
+      “it struct of the casen straight of the 
+temperature: 0.6
+said sir henry baskerville, “perhaps you will tell me, mr.
+      he regroasing which has been the wind of visiton and you will
+      stapleton to fell it of this manon of the station was a bory of which once
+      the wall down to a before he will send a small on the casessid
+      of the hound. “he saw you think with your own picture of the
+      few passed some stapleton so that the faction of this station
+prosidican?”
+
+      “i heeres to feet the moor. 
+temperature: 0.7
+said sir henry baskerville, “perhaps you will tell me, mr.
+      the hall which he had intelscided and we were mistale, and was
+      no doubt this many upon this death, and i have clenty you pressing -wordted if you
+            the readfor of the plain and not me, when i think that sir henry.
+      we contant from the country. “you had alwfacys to me this much more
+      could already the bask considerabte sures and clear to the badg
+or of the moor. there
+temperature: 0.75
+said sir henry baskerville, “perhaps you will tell me, mr.
+      holmes down fello” ?am the edgemorl and would seemt them.”
+
+      “you could mre. was the thoughing grotic works of the tall. wether a pay of the
+      waythe. and then the it could alones waten to do you somethouts
+      when the stapleton was which he don’t already regent the perming with
+      may afternatican was probably his cassion and yet lay may for the trank, and
+      the room. that
+temperature: 0.8
+said sir henry baskerville, “perhaps you will tell me, mr.
+      sherlock hold have the stapleton was was parage the hall, and away
+      though was positinf intention way that it had several recall on the
+      heart he was death, and evidently very lumcable must be a suymintion of
+      unul him and wild.”
+
+      “there barrymore, which he stapleton!” he may called the barone
+      with his expection of grotter. “have had was baskerville.
+
+      but you 
+temperature: 0.9
+said sir henry baskerville, “perhaps you will tell me, mr.
+      mich pleasl upon the day of the united himself came for all
+      as that the moon before, but i heven if i can dine, and fulk and there
+      true which kepilation of this collease sorming, do you pismos
+      the grimpen, the undevilel reached to me, and for evil a gigct
+      of the pale came of the faced by not in the own first in dure
+and the old faced spectred at once.  it down the puty
+temperature: 1
+said sir henry baskerville, “perhaps you will tell me, mr.
+      dea sum, the aof.”
+
+      “but i foll me that he triend, intention of the respecions. she
+      then? then, own case.”
+
+      “why walkeon than understand life lay not our way no compared sir
+        nok the instbericalising actome capoapy of it must have been
+      stapleton and if because i don’t make, watson, if on a flankles sook on
+      country on our charged, and i certhand srine the l
+temperature: 1.1
+said sir henry baskerville, “perhaps you will tell me, mr.
+      i lurd devened the siguess of designt, as time of rights. but a
+      cremorges because you given at this many cleet dr. mortimer.”
+
+      “there the ifher’s othe whole beart so shand lable notciber that i was got
+      dete.g. a down velope?”
+
+      “there was no driving effigun. a telp impace which i care!”
+  have never due our door, hutome passed imagined until on ruse
+      the section of
+temperature: 1.2
+said sir henry baskerville, “perhaps you will tell me, mr.
+      it run blbe to was poor by light for    the whold evidence.”
+
+      “yes, somethind of brok—a mpuipted viion when the wits
+that my compolece clenpring? so dask joich show suunty. but suse
+      at lafter,,” said he. “in mrs. ly your edence say me a lither
+whise now leanted phair drivored. there, dead.”
+
+      “no now voed, could it geet it.” at hhere deading suage of dyme
+      ended. i have 
+temperature: 1.25
+said sir henry baskerville, “perhaps you will tell me, mr.
+      the hull.”
+
+      “my dear holmes, brre.n”
+
+      the halp portron before his pismrimaryed intere to voicing
+      with himgortly showing. but it is remainst of it, which tool.
+      the hothous , and evid acknow, yeu limited nor town to dobion
+      his swyfre, with gracens, creating spefing. but contancure i have
+      influence from them.”
+
+      “noired shottame glinip jlether my strange 
