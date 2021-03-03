@@ -13,4 +13,4 @@ This was a project that generated new Sherlock Holmes text and then attempted to
 
 [Back to Home](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/)
 
-[GitHub Repo](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/)
+[GitHub Repo](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/tree/main/Project3)
