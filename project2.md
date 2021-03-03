@@ -13,4 +13,4 @@ This was a project that classified SMS text messages as spam or not.
 
 [Back to Home](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/)
 
-[GitHub Repo](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/)
+[GitHub Repo](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/tree/main/Project2)
