@@ -13,4 +13,4 @@ This was a project that looked at Twitter data regarding the 2020 Election in th
 
 [Back to Home](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/)
 
-[GitHub Repo](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/)
+[GitHub Repo](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/tree/main/Project1)
