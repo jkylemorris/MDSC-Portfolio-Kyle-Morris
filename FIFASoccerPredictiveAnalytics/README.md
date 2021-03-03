@@ -23,4 +23,4 @@ Please make sure to update tests as appropriate.
 
 [Back to Home](https://jkylemorris.github.io/MDSC-Portfolio-Kyle-Morris/)
 
-[GitHub Repo](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/)
+[GitHub Repo](https://github.com/jkylemorris/MDSC-Portfolio-Kyle-Morris/tree/main/FIFASoccerPredictiveAnalytics)
